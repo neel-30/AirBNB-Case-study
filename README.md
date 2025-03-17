@@ -60,10 +60,4 @@ Visualizations were created to effectively communicate the findings. Key visuali
 
 The analysis provided valuable insights into the New York Airbnb market, highlighting key factors that influence pricing and availability. The findings can be useful for potential hosts, guests, and policymakers interested in the short-term rental market.
 
-## Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/nyc-airbnb-eda.git
